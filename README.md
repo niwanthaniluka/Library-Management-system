@@ -9,7 +9,7 @@ This repository contains a comprehensive Library Management System (LMS) impleme
 ## Features
 
 - **Add Books**: Easily add new books to the library's collection.
-![Library Management System](path/to/your/image.png)
+![Library Management System](images/AddBook.png)
 
 - **Delete Books**: Remove books that are no longer available.
 ![Library Management System](path/to/your/image.png)
