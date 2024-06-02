@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive Library Management System (LMS) implemented in C. The system allows users to manage books and patrons, facilitating various operations such as adding, deleting, searching, and borrowing books. The project is designed to be a simple yet effective tool for managing library resources efficiently.
 
-![Library Management System](path/to/your/image.png)
+![Library Management System](images/Login.png)
 
 ## Features
 
@@ -12,12 +12,12 @@ This repository contains a comprehensive Library Management System (LMS) impleme
 ![Library Management System](images/AddBook.png)
 
 - **Delete Books**: Remove books that are no longer available.
-![Library Management System](path/to/your/image.png)
+![Library Management System](images/DeleteBook.png)
 
 - **Search Books**: Search for books by title, author, or ISBN.
-![Library Management System](path/to/your/image.png)
+![Library Management System](images/SearchBook.png)
 
 - **Display Records**: View lists of all books and patrons, including borrowed books and due dates.
-  ![Library Management System](path/to/your/image.png)
+  ![Library Management System](images/DisplayBook.png)
 
 
